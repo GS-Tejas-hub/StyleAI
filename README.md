@@ -4,10 +4,6 @@
 
 ![AI Stylist Hero](https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=1200&q=80)
 
-## 🚀 Live Demo
-
-[Link to Live Demo if applicable]
-
 ## ✨ Features
 
 - **Gender-Specific Flows**: Tailored experiences for **Men** and **Women**.
