@@ -1,6 +1,6 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
-const API_KEY = "AIzaSyAzviUOyj8e4M33d7CrN_7kAqUDxl2T7bY";
+const API_KEY = "paste your api key here";
 const genAI = new GoogleGenerativeAI(API_KEY);
 
 // Helper to convert file to base64 for Gemini
